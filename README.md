@@ -1,144 +1,139 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jeevanandam%20A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Builder%20%7C%20CS%20Student&descAlignY=62&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=200&section=header&text=JEEVANANDAM_A&fontSize=38&fontColor=00FF41&animation=twinkling&fontAlignY=32&desc=%3E%20whoami%20%26%26%20cat%20skills.txt&descAlignY=62&descSize=16&descColor=00FF41)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+(MEAN+%2F+MERN);AI+%26+Computer+Vision+Enthusiast;Building+Scalable+Web+Apps;Python+%7C+Blockchain+Certified+Dev" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=750&background=00000000&lines=root%40jeeva%3A~%24+full-stack+developer;root%40jeeva%3A~%24+ai+%2F+computer+vision+dev;root%40jeeva%3A~%24+python+%7C+blockchain+certified;root%40jeeva%3A~%24+access+granted..." alt="Typing SVG" />
 
 <br>
 
-<a href="https://www.linkedin.com/in/jeeva-nandam-499168320"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:jeevaalk647@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/u/Jeevanandam_A/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://github.com/JEEVANANDAM48"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jeeva-nandam-499168320"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000"/></a>
+<a href="mailto:jeevaalk647@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000"/></a>
+<a href="https://leetcode.com/u/Jeevanandam_A/"><img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=00FF41&labelColor=000000"/></a>
+<a href="https://github.com/JEEVANANDAM48"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000"/></a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=JEEVANANDAM48&label=Profile+Views&color=70a5fd&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/JEEVANANDAM48?label=Followers&style=for-the-badge&color=bf91f3&logo=github" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=JEEVANANDAM48&label=CONNECTIONS&color=00FF41&style=for-the-badge&labelColor=000000" alt="Profile Views"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%">
+```
+██████████████████████████████████████████████████████████████████
+```
 
 <!-- ================= ABOUT ME ================= -->
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+### `$ cat about_me.sh`
 
-### 💻 About Me
+```bash
+#!/bin/bash
 
-```java
-public class Jeevanandam {
-    private String name = "Jeevanandam A";
-    private String location = "Chennai, India";
-    private String degree = "B.E. Computer Science, Easwari Engineering College (2028)";
+USER="Jeevanandam A"
+LOCATION="Chennai, India"
+DEGREE="B.E. Computer Science — Easwari Engineering College (2028)"
 
-    private String[] stack = {
-        "Python", "Java", "C++", "React.js", "Node.js",
-        "Flask", "OpenCV", "MongoDB", "MySQL"
-    };
+STACK=("Python" "Java" "C++" "React.js" "Node.js" "Flask" "OpenCV" "MongoDB" "MySQL")
+LEARNING=("AWS" "Advanced ML" "System Design")
+STATUS="Full Stack Developer Intern @ Rise 4.0 (MEAN/MERN)"
+FUN_FACT="3rd Place — Mathematical Modelling Competition, SRMIST"
 
-    private String[] currentlyLearning = {
-        "Amazon Web Services (AWS)", "Advanced ML", "System Design"
-    };
-
-    private String funFact = "3rd Place winner at a Mathematical Modelling competition!";
-
-    public String motto() {
-        return "Build intelligent, scalable software that solves real problems.";
-    }
+motto() {
+  echo "Build intelligent, scalable software that solves real problems."
 }
+
+echo "[+] user       : $USER"
+echo "[+] location   : $LOCATION"
+echo "[+] education  : $DEGREE"
+echo "[+] status     : $STATUS"
+echo "[+] stack      : ${STACK[@]}"
+echo "[+] learning   : ${LEARNING[@]}"
+echo "[+] fun_fact   : $FUN_FACT"
+echo "[+] motto      : $(motto)"
+
+exit 0
 ```
 
-- 🎓 B.E. Computer Science & Engineering @ Easwari Engineering College, Anna University
-- 💼 Full Stack Developer Intern @ Rise 4.0 (MEAN/MERN Stack)
-- 🧠 Building AI-driven systems using Computer Vision and Machine Learning
-- 🏆 Certified Python & Blockchain Developer
-- 🌱 Currently exploring AWS and advanced ML pipelines
-- 🗣️ Presented "Heal Hub" at an International Conference on Research & Education
-- 📫 Reach me at **jeevaalk647@gmail.com**
+```
+> Process exited with code 0
+> Certified Python & Blockchain Developer | Ethical Hacking (NPTEL)
+> Presented "Heal Hub" @ Int'l Conference on Research & Education (2025)
+```
 
-<br clear="right"/>
-
-<div align="center">
-
-> 💬 *"First, solve the problem. Then, write the code."* — John Johnson
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%">
+```
+██████████████████████████████████████████████████████████████████
+```
 
 <!-- ================= TECH STACK ================= -->
 
-### 🛠️ Tech Stack
+### `$ ls -la ./tech_stack/`
 
 <div align="center">
 
-**Languages**
-<br>
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql&theme=dark" />
-
-**Frameworks & Libraries**
-<br>
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,opencv&theme=dark" />
-
-**Cloud, DevOps & Tools**
-<br>
 <img src="https://skillicons.dev/icons?i=aws,git,github,linux,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
 
-**Databases & Data**
 <br>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=numpy&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Scikit--learn-000000?style=flat-square&logo=scikit-learn&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Tableau-000000?style=flat-square&logo=tableau&logoColor=00FF41"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%">
+```
+██████████████████████████████████████████████████████████████████
+```
 
 <!-- ================= GITHUB STATS ================= -->
 
-### 📊 GitHub Analytics
+### `$ ./run_diagnostics.sh --target=github`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JEEVANANDAM48&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-<img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEEVANANDAM48&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JEEVANANDAM48&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41&border_color=00FF41&border_radius=4"/>
+<img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEEVANANDAM48&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41&border_color=00FF41&langs_count=8&border_radius=4"/>
 
-<img width="86%" src="https://streak-stats.demolab.com?user=JEEVANANDAM48&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
+<img width="86%" src="https://streak-stats.demolab.com?user=JEEVANANDAM48&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00994d&currStreakNum=00FF41&sideNums=00FF41&stroke=00FF41&border_radius=4"/>
 
-<img width="86%" src="https://github-readme-activity-graph.vercel.app/graph?username=JEEVANANDAM48&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+<img width="86%" src="https://github-readme-activity-graph.vercel.app/graph?username=JEEVANANDAM48&bg_color=000000&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true&area_color=00FF41"/>
 
 </div>
 
-### 🐍 Contribution Snake
+### `$ ./contribution_snake.sh`
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/JEEVANANDAM48/JEEVANANDAM48/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 
-<sub>Animates from your real contribution graph — powered by the included GitHub Action (see <code>snake.yml</code>).</sub>
+<sub>&gt; live from your commit graph — powered by <code>.github/workflows/snake.yml</code></sub>
 
 </div>
 
-### 🏆 Trophy Wall
+### `$ ./fetch_trophies.sh`
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=JEEVANANDAM48&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=JEEVANANDAM48&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%">
+```
+██████████████████████████████████████████████████████████████████
+```
 
 <!-- ================= EXPERIENCE ================= -->
 
-### 💼 Work Experience
+### `$ cat /var/log/experience.log`
 
 <details open>
-<summary><b>🚀 Rise 4.0 — Full Stack Developer Intern (MEAN/MERN Stack) | Jan 2026 – Present | Remote</b></summary>
+<summary><b>[ACTIVE] Rise 4.0 — Full Stack Developer Intern (MEAN/MERN) | Jan 2026 – Present | Remote</b></summary>
 <br>
 
-> `MongoDB` `Express.js` `React.js` `Node.js` `REST APIs`
+```
+$ tags --list
+> MongoDB  Express.js  React.js  Node.js  REST APIs
+```
 
 - Developing scalable and responsive web applications using the MEAN/MERN stack.
 - Designing robust RESTful APIs to power full-stack production features.
@@ -148,10 +143,13 @@ public class Jeevanandam {
 </details>
 
 <details>
-<summary><b>🌱 1M1B Green Skills Academy — Software Engineering Intern | Dec 2025 – Jan 2026 | Remote</b></summary>
+<summary><b>[COMPLETE] 1M1B Green Skills Academy — Software Engineering Intern | Dec 2025 – Jan 2026 | Remote</b></summary>
 <br>
 
-> `Tableau` `Data Analytics` `Sustainability Tech`
+```
+$ tags --list
+> Tableau  Data Analytics  Sustainability Tech
+```
 
 - Completed a 60-hour intensive program on sustainable development and data-driven execution.
 - Utilized Tableau to visualize and interpret environmental sustainability metrics.
@@ -159,76 +157,87 @@ public class Jeevanandam {
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%">
+```
+██████████████████████████████████████████████████████████████████
+```
 
 <!-- ================= PROJECTS ================= -->
 
-### 🚀 Featured Projects
+### `$ find ./projects -type f -name "*.md"`
 
 <div align="center">
 
-| Project | Stack | Highlights |
-|:---|:---|:---|
-| **[⚡ Energy Mirror — AI Smart Energy Monitoring](https://github.com/JEEVANANDAM48)** | `Python` `Flask` `OpenCV` `IoT` | AI-powered smart mirror using Computer Vision to identify appliances and monitor real-time energy usage |
-| **[🎯 Facial Recognition Loyalty System](https://github.com/JEEVANANDAM48)** | `Python` `OpenCV` `MySQL` | Cardless facial recognition system with automated rewards and personalized customer offers |
-| **[🌿 AI-Driven Plant Disease Detection](https://github.com/JEEVANANDAM48)** | `React.js` `Flask` `ML` | Full-stack app classifying plant diseases from images with high ML model accuracy |
-| **[🔍 Image Processing for Quality Control](https://github.com/JEEVANANDAM48)** | `OpenCV` `Python` | Defect detection system for bottles — 🥉 3rd Place, SRMIST competition |
+| PID | Project | Stack | Output |
+|:---:|:---|:---|:---|
+| 01 | **[Energy Mirror — AI Smart Energy Monitoring](https://github.com/JEEVANANDAM48)** | `python` `flask` `opencv` `iot` | CV-based appliance detection + real-time usage monitoring |
+| 02 | **[Facial Recognition Loyalty System](https://github.com/JEEVANANDAM48)** | `python` `opencv` `mysql` | Cardless recognition, automated rewards engine |
+| 03 | **[AI-Driven Plant Disease Detection](https://github.com/JEEVANANDAM48)** | `react` `flask` `ml` | High-accuracy disease classification from leaf images |
+| 04 | **[Image Processing for Quality Control](https://github.com/JEEVANANDAM48)** | `opencv` `python` | Bottle defect detection — 🥉 3rd place, SRMIST |
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%">
+```
+██████████████████████████████████████████████████████████████████
+```
 
 <!-- ================= ACHIEVEMENTS ================= -->
 
-### 🏅 Achievements & Certifications
+### `$ grep -r "achievement" ./certs/`
 
 <div align="center">
 
-| 🏆 | Achievement | Details |
+| STATUS | ACHIEVEMENT | DETAIL |
 |:---:|:---|:---|
-| 🥉 | Mathematical Modelling Competition | 3rd Place Winner at SRMIST |
-| 🎤 | Conference Presenter | Presented **"Heal Hub"** at the Int'l Conference on Research & Education (2025) |
-| 🐍 | Full Stack (Python) | Certified Full-Stack Python Developer |
-| ⛓️ | Blockchain (NPTEL) | NPTEL-certified Blockchain Developer |
-| 🔐 | Ethical Hacking (NPTEL) | NPTEL-certified in Ethical Hacking |
-| ☕ | Core Java (Infosys) | Infosys-certified Core Java Developer |
+| [OK] | Mathematical Modelling Competition | 3rd Place Winner @ SRMIST |
+| [OK] | Conference Presenter | "Heal Hub" @ Int'l Conf. on Research & Education (2025) |
+| [OK] | Full Stack (Python) | Certified |
+| [OK] | Blockchain (NPTEL) | Certified |
+| [OK] | Ethical Hacking (NPTEL) | Certified |
+| [OK] | Core Java (Infosys) | Certified |
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%">
+```
+██████████████████████████████████████████████████████████████████
+```
 
 <!-- ================= EDUCATION ================= -->
 
-### 🎓 Education
+### `$ cat education.yaml`
 
 <div align="center">
 
 | Degree | Institution | Year | Score |
 |:---|:---|:---:|:---:|
-| B.E. Computer Science & Engineering | Easwari Engineering College, Anna University | Expected May 2028 | CGPA: **8.9 / 10.0** |
+| B.E. Computer Science & Engineering | Easwari Engineering College, Anna University | Expected May 2028 | CGPA: **8.9/10.0** |
 
 </div>
 
-### 🌱 Currently Learning
+### `$ tail -f learning_queue.log`
 
 ```
-☁️  Cloud            → Amazon Web Services (AWS)
-🤖 Machine Learning  → Advanced Model Optimization, Deep Learning
-🏗️  System Design     → Scalable Architecture, API Design
+[LOADING] AWS Cloud            ████████░░  80%
+[LOADING] Advanced ML          ██████░░░░  60%
+[LOADING] System Design        █████░░░░░  50%
 ```
 
-### 🗣️ Languages
+### `$ locale -a`
 
 <div align="center">
 
-![English](https://img.shields.io/badge/English-Professional-70a5fd?style=flat-square)
-![Tamil](https://img.shields.io/badge/Tamil-Professional-bf91f3?style=flat-square)
-![Hindi](https://img.shields.io/badge/Hindi-Professional-38bdae?style=flat-square)
+<img src="https://img.shields.io/badge/ENGLISH-000000?style=flat-square&labelColor=000000&color=00FF41"/>
+<img src="https://img.shields.io/badge/TAMIL-000000?style=flat-square&labelColor=000000&color=00FF41"/>
+<img src="https://img.shields.io/badge/HINDI-000000?style=flat-square&labelColor=000000&color=00FF41"/>
 
 </div>
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
+```
+$ exit
+Connection to JEEVANANDAM48 closed.
+```
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:000000&height=120&section=footer&animation=twinkling)
 
 </div>
