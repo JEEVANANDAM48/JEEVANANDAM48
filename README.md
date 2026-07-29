@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,50:C8B6FF,100:B8F2E6&height=200&section=header&text=Jeevanandam%20A&fontSize=40&fontColor=4A4A6A&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Builder%20%7C%20CS%20Student&descAlignY=62&descSize=15&descColor=5A5A7A)
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=24&duration=3000&pause=1000&color=B08BD6&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+(MEAN+%2F+MERN);AI+%26+Computer+Vision+Enthusiast;Building+Scalable+Web+Apps;Python+%7C+Blockchain+Certified+Dev" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=24&duration=3000&pause=1000&color=B08BD6&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+(PYTHON+%2F+JAVA);AI+%26+Computer+Vision+Enthusiast;Building+Scalable+Web+Apps;Python+%7C+Blockchain+Certified+Dev" alt="Typing SVG" />
 
 <br>
 
